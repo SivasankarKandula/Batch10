@@ -1,4 +1,8 @@
 -- Databricks notebook source
+-- i am testing git
+
+-- COMMAND ----------
+
 set spark.databricks.delta.commitValidation.enabled = False
 
 -- COMMAND ----------
